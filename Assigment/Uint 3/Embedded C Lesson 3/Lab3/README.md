@@ -2,4 +2,4 @@
 ## write  c code 
 ## write  linker script
 ## write  startup
-### Prebared By Eng Ahmed Maher
+### prepared By Eng Ahmed Maher
