@@ -1,0 +1,28 @@
+ENTRY(reset)
+
+MEMORY
+{
+  Mem    (xrw)    : ORIGIN = 0x00000000,   LENGTH = 64M
+}
+SECTIONS
+{
+  . = 0x10000;
+ .startup . :
+ {
+   startup.o(.text)
+ }> Mem
+ .text :
+ {
+  *(.text) *(.rodata)
+ }> Mem
+ .data :
+ {
+  *(.data)
+ }> Mem
+ .bss :
+  {
+  *(.bss)
+  }> Mem
+ . = . + 0x10000 ;
+ stack_top = .;
+}
