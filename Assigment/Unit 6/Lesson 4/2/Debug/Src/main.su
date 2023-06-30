@@ -1,0 +1,5 @@
+../Src/main.c:67:5:main	8	static
+../Src/main.c:76:6:RCCInit	4	static
+../Src/main.c:96:6:GPIOInit	4	static
+../Src/main.c:106:6:EXTIInit	4	static
+../Src/main.c:128:6:EXTI0_IRQHandler	4	static

@@ -1,0 +1,5 @@
+main.c:67:5:main	1
+main.c:76:6:RCCInit	1
+main.c:96:6:GPIOInit	1
+main.c:106:6:EXTIInit	1
+main.c:128:6:EXTI0_IRQHandler	1
