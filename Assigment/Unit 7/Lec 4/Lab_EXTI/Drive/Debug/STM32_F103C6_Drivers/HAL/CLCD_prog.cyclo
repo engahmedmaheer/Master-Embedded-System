@@ -1,0 +1,11 @@
+CLCD_prog.c:29:13:SendEnablePulse	1
+CLCD_prog.c:37:13:SetHalfDataPins	1
+CLCD_prog.c:59:6:CLCD_voidSendCommand	1
+CLCD_prog.c:85:6:CLCD_voidSendData	1
+CLCD_prog.c:113:6:CLCD_voidInit	1
+CLCD_prog.c:136:6:CLCD_voidSendString	3
+CLCD_prog.c:157:9:CLCD_voidSendNumebr	4
+CLCD_prog.c:192:6:CLCD_voidGoToXY	3
+CLCD_prog.c:206:6:CLCD_voidSendSpecialCharacter	3
+CLCD_prog.c:231:6:CLCD_voidDisplaySpecialCharacter	1
+CLCD_prog.c:242:6:CLCD_voidStoreSpecialCharacter	3

@@ -1,0 +1,5 @@
+../Src/main.c:42:5:main	16	static
+../Src/main.c:59:6:ClockEnable	4	static
+../Src/main.c:69:6:GPIOInit	80	static
+../Src/main.c:157:6:EXTIConfig	16	static
+../Src/main.c:175:6:HandlerPA0	8	static
