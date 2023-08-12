@@ -1,0 +1,5 @@
+../STM32F103x6/USART_Program.c:46:17:USART_Init	32	static
+../STM32F103x6/USART_Program.c:192:17:USART_Deinit	24	static
+../STM32F103x6/USART_Program.c:223:17:USART_U16SendData	32	static
+../STM32F103x6/USART_Program.c:271:17:USART_U16RecieveData	32	static
+../STM32F103x6/USART_Program.c:356:17:USART_U16WAIT_TC	24	static

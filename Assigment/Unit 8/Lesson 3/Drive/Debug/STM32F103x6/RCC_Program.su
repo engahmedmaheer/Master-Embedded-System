@@ -1,0 +1,4 @@
+../STM32F103x6/RCC_Program.c:28:10:RCC_GetSYSCLCK	4	static
+../STM32F103x6/RCC_Program.c:54:10:RCC_GetHCLCK	8	static
+../STM32F103x6/RCC_Program.c:79:10:RCC_GetPCLCK1	8	static
+../STM32F103x6/RCC_Program.c:101:10:RCC_GetPCLCK2	8	static
