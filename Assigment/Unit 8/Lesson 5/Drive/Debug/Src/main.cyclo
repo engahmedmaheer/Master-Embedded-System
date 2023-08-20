@@ -1,0 +1,4 @@
+../Src/main.c:47:5:main	1
+../Src/main.c:137:6:CLCK_Init	1
+../Src/main.c:154:6:USART1_IRQHandler	1
+../Src/main.c:172:6:Ahmed_SPI1_Handler	2

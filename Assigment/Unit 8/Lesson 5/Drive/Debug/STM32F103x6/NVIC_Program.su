@@ -1,0 +1,6 @@
+../STM32F103x6/NVIC_Program.c:27:9:NVICEnable	24	static
+../STM32F103x6/NVIC_Program.c:52:9:NVICDisable	24	static
+../STM32F103x6/NVIC_Program.c:77:9:NVIC_SetPendingFlag	24	static
+../STM32F103x6/NVIC_Program.c:103:9:NVIC_ClearPendingFlag	24	static
+../STM32F103x6/NVIC_Program.c:130:9:NVIC_GetActiveFlag	24	static
+../STM32F103x6/NVIC_Program.c:156:9:NVIC_U8SetIRQPriorty	24	static
