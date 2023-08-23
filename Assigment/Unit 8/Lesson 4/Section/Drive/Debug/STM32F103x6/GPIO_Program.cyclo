@@ -1,0 +1,12 @@
+../STM32F103x6/GPIO_Program.c:24:16:GET_CRLH_Position	30
+../STM32F103x6/GPIO_Program.c:66:9:GPIO_u8PinInit	9
+../STM32F103x6/GPIO_Program.c:129:9:GPIO_u8PDeInit	2
+../STM32F103x6/GPIO_Program.c:189:9:GPIO_u8SetPinValue	3
+../STM32F103x6/GPIO_Program.c:219:9:GPIO_u8TogglePinValue	1
+../STM32F103x6/GPIO_Program.c:239:9:GPIO_u8TogglePortValue	2
+../STM32F103x6/GPIO_Program.c:267:9:GPIO_u8ReadPinValue	2
+../STM32F103x6/GPIO_Program.c:298:9:GPIO_voidSetPortValue	2
+../STM32F103x6/GPIO_Program.c:324:9:GPIO_u8ReadPortValue	3
+../STM32F103x6/GPIO_Program.c:360:9:GPIO_u8LockPin	1
+../STM32F103x6/GPIO_Program.c:390:9:GPIO_USARTSetPins	8
+../STM32F103x6/GPIO_Program.c:502:9:GPIO_SPISetPins	9

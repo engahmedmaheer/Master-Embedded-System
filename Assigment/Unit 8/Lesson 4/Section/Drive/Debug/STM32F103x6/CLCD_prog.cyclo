@@ -1,0 +1,11 @@
+../STM32F103x6/CLCD_prog.c:21:13:SendEnablePulse	1
+../STM32F103x6/CLCD_prog.c:29:13:SetHalfDataPins	1
+../STM32F103x6/CLCD_prog.c:51:6:CLCD_voidSendCommand	1
+../STM32F103x6/CLCD_prog.c:77:6:CLCD_voidSendData	1
+../STM32F103x6/CLCD_prog.c:105:6:CLCD_voidInit	1
+../STM32F103x6/CLCD_prog.c:128:6:CLCD_voidSendString	3
+../STM32F103x6/CLCD_prog.c:149:9:CLCD_voidSendNumebr	4
+../STM32F103x6/CLCD_prog.c:184:6:CLCD_voidGoToXY	3
+../STM32F103x6/CLCD_prog.c:198:6:CLCD_voidSendSpecialCharacter	3
+../STM32F103x6/CLCD_prog.c:223:6:CLCD_voidDisplaySpecialCharacter	1
+../STM32F103x6/CLCD_prog.c:234:6:CLCD_voidStoreSpecialCharacter	3
