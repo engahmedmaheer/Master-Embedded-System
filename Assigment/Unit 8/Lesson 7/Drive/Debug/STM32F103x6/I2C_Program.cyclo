@@ -1,0 +1,16 @@
+../STM32F103x6/I2C_Program.c:35:9:I2C_Init	9
+../STM32F103x6/I2C_Program.c:204:6:I2C_EnablePeripheral	1
+../STM32F103x6/I2C_Program.c:213:6:I2C_ResetPeripheral	3
+../STM32F103x6/I2C_Program.c:233:6:I2C_GenerateStartBit	5
+../STM32F103x6/I2C_Program.c:273:6:I2C_GenerateStopBit	3
+../STM32F103x6/I2C_Program.c:306:6:I2C_Master_Tx	8
+../STM32F103x6/I2C_Program.c:366:6:I2C_Master_Rx	8
+../STM32F103x6/I2C_Program.c:443:13:I2C_GetFlagStatue	17
+../STM32F103x6/I2C_Program.c:612:6:I2C_SendAddress	2
+../STM32F103x6/I2C_Program.c:636:6:I2C_SendACKState	3
+../STM32F103x6/I2C_Program.c:661:6:I2C_Slave_TX	1
+../STM32F103x6/I2C_Program.c:673:6:I2C_Slave_Rx	1
+../STM32F103x6/I2C_Program.c:687:6:I2C1_EV_IRQHandler	1
+../STM32F103x6/I2C_Program.c:693:6:I2C1_ER_IRQHandler	1
+../STM32F103x6/I2C_Program.c:699:6:I2C2_EV_IRQHandler	1
+../STM32F103x6/I2C_Program.c:705:6:I2C2_ER_IRQHandler	1

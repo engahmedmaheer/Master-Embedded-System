@@ -1,0 +1,7 @@
+../STM32F103x6/SPI_Program.c:37:9:SPI_Init	32	static
+../STM32F103x6/SPI_Program.c:125:9:SPI_DeInit	24	static
+../STM32F103x6/SPI_Program.c:150:9:SPI_U16SendData	32	static
+../STM32F103x6/SPI_Program.c:182:9:SPI_U16RecieveData	32	static
+../STM32F103x6/SPI_Program.c:207:9:SPI_U16TXRX	32	static
+../STM32F103x6/SPI_Program.c:228:6:SPI1_IRQHandler	16	static
+../STM32F103x6/SPI_Program.c:239:6:SPI2_IRQHandler	16	static
